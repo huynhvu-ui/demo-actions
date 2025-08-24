@@ -1,1 +1,1 @@
-print("xin chào")
+print("xin chào các bạn")
